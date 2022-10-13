@@ -1,6 +1,6 @@
 # Games
 
-**TODO: Add description**
+A practice repository for some Dockyard Academy exercises
 
 ## Installation
 
